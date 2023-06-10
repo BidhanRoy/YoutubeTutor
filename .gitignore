@@ -1,0 +1,18 @@
+# .gitignore
+
+# Ignore Python virtual environments
+venv/
+
+# Ignore Visual Studio Code configuration files
+.vscode/
+
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore build artifacts and distribution files
+dist/
+build/
+*.egg-info/
