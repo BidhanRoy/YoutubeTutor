@@ -27,7 +27,7 @@ pip install -r requirements.txt
 1. Navigate to the cloned repository and run the following command:
 
 ```bash
-streamlit run app.py
+streamlit run main.py
 ```
 
 2. Open the provided local URL in your browser. Enter the YouTube video link in the input field and the application will handle the rest.
